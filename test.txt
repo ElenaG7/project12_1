@@ -5,4 +5,4 @@ row 3 local from cloned project
 row 4 time for test and after lunch
 row 5 local
 row 6 Friday 13th 
-row 7
+row 7 visual studio code
